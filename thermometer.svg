@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="thermometer.svg"
+   inkscape:version="0.48.5 r10040"
+   version="1.1"
+   id="svg2"
+   height="900"
+   width="1080">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="555.98216"
+     inkscape:cy="439.58986"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1598"
+     inkscape:window-height="867"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4203" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path4339"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3262">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3264" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop3266" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstartg"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstartg">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="stroke:#008000;stroke-width:1.0pt;fill:#008000;fill-rule:evenodd"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5428" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1LstartF"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1LstartF">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="stroke:#800000;stroke-width:1.0pt;fill:#800000;fill-rule:evenodd"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5482" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstartge"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstartge">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000080;stroke-width:1.0pt;fill:#000080"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5541" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-152.35975)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1" />
+  <image
+     width="557.14288"
+     height="836.5509"
+     xlink:href="file:///home/med/pid/thermometer2.jpg"
+     id="image5038"
+     x="-49.131989"
+     y="23.748028" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text4911"
+     y="81.428574"
+     x="317.14285"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       style="font-weight:bold"
+       y="81.428574"
+       x="317.14285"
+       id="tspan4913"
+       sodipodi:role="line">Controls Engineering</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path5041"
+     d="m 342.57143,272.25027 345.71428,0"
+     style="fill:#800000;stroke:#800000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1LstartF);marker-end:none" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:#800000;font-family:Sans"
+     x="722.85712"
+     y="287.14285"
+     id="text5456"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5458"
+       x="722.85712"
+       y="287.14285">Too hot</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:#000080;font-family:Sans"
+     x="722.85712"
+     y="445.17828"
+     id="text5460"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5462"
+       x="722.85712"
+       y="445.17828">Too cold</tspan></text>
+  <g
+     id="g5613"
+     inkscape:label="part1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path5415"
+       d="m 342.57143,348.28571 345.71428,0"
+       style="stroke-linejoin:miter;marker-end:none;stroke-opacity:1;marker-start:url(#Arrow1Lstartg);stroke:#008000;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:5;fill:#008000" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5464"
+       y="359.35016"
+       x="721.99774"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:#008000;font-family:Sans"
+       xml:space="preserve"><tspan
+         y="359.35016"
+         x="721.99774"
+         id="tspan5466"
+         sodipodi:role="line">Just right</tspan></text>
+  </g>
+  <path
+     inkscape:connector-curvature="0"
+     id="path5523"
+     d="m 342.57143,430.28571 345.71428,0"
+     style="stroke-linejoin:miter;marker-end:none;stroke-opacity:1;marker-start:url(#Arrow1Lstartge);stroke:#000080;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-width:5;fill:#000080" />
+  <g
+     id="g5618"
+     inkscape:label="part2"
+     transform="translate(-18.571429,-117.14286)">
+    <text
+       sodipodi:linespacing="125%"
+       id="text5601"
+       y="745.71429"
+       x="469.99997"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-weight:bold"
+         id="tspan5605"
+         y="745.71429"
+         x="469.99997"
+         sodipodi:role="line">Can only control heater!</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5609"
+       y="645.71429"
+       x="412.85715"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-weight:bold"
+         y="645.71429"
+         x="412.85715"
+         id="tspan5611"
+         sodipodi:role="line">Can't control directly!</tspan></text>
+  </g>
+</svg>
